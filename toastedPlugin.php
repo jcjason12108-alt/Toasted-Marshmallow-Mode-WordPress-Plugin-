@@ -3,7 +3,7 @@
  * Plugin Name: Toasted Marshmallow Mode
  * Plugin URI: https://github.com/jcjason12108-alt/Toasted-Marshmallow-Mode-WordPress-Plugin-
  * Description: Adds a Coming Soon / Maintenance splash screen with customizable logo and text.
- * Version: 1.9.1
+ * Version: 1.9.2
  * Author: Jason Cox
  * Author URI: https://jasoncox.cloud
  * Requires at least: 5.8
@@ -17,7 +17,7 @@
 defined('ABSPATH') || exit;
 
 if (!defined('TOASTED_MARSHMALLOW_VERSION')) {
-    define('TOASTED_MARSHMALLOW_VERSION', '1.9.1');
+    define('TOASTED_MARSHMALLOW_VERSION', '1.9.2');
 }
 
 require_once __DIR__ . '/plugin-update-checker/plugin-update-checker.php';

@@ -4,7 +4,7 @@ Tags: maintenance mode, coming soon, splash screen
 Requires at least: 5.8
 Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 1.9.1
+Stable tag: 1.9.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,6 +21,9 @@ Toasted Marshmallow Mode lets administrators show either a Coming Soon page with
 3. Configure the plugin from Settings > Toasted Marshmallow.
 
 == Changelog ==
+
+= 1.9.2 =
+* Updated the bundled Plugin Update Checker library from 5.6 to 5.7.
 
 = 1.9.1 =
 * Confirmed compatibility with WordPress 7.0 and PHP 7.4.
